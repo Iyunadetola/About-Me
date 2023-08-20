@@ -10,7 +10,7 @@ section{
 section .first{
     background-color: rgb(57, 96, 57);
     height: 100%;
-    width: 35%;
+    width: 40%;
     padding-left: 10px;
     color: rgb(230, 217, 217);
 }
@@ -72,12 +72,12 @@ section .second{
         display: block;
         
     }
-    section .first .firstCert{
+    /* section .first .firstCert{
         width:30%;
 
-    }
-    section .first .firstCert .cert{
+    } */
+    /* section .first .firstCert .cert{
         padding-left: 0px;
         margin-left: 0px;
-    }
+    } */
 }
