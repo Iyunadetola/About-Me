@@ -72,4 +72,11 @@ section .second{
         display: block;
         
     }
+    section .first .firstCert{
+        width:30%;
+
+    }
+    section .first .firstCert li{
+        font-size: smaller;
+    }
 }
